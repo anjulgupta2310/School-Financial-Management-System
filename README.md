@@ -14,3 +14,7 @@ Here i am using all 4 property of OOPs
 
 Bacically I create 5 classes including the driver class.Class Person is inherited by the Student and Teacher class.In every Class i using the concept of data security/hiding using Encalsulation
 I overrides the toString of the object using the polymorphism.
+
+## Testing
+
+You can test my code by using the driver class.
